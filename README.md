@@ -1,7 +1,6 @@
-# Smash Ultimate Tier List Maker
+# Shishi Emojis Tier List Maker
 
-forked from https://github.com/fe-tier-list-maker/fe-tier-list-maker.github.io
+Forkeado de https://github.com/CaccHunter/smash-ultimate-tier-list-maker.github.io
+¡Muchisimas gracias por prestar tanto codigo para hacer esta tontería posible!
 
-This is a tier list maker for every basically everything in Smash Ultimate, and a lot of things that aren't. Images used are property of Nintendo/Sora Ltd. 
-
-I like the [contribution guide](https://github.com/fe-tier-list-maker/fe-tier-list-maker.github.io/blob/master/CONTRIBUTING.md) from the one I forked from so check it out if you want to add/modify portraits or functionality.
+No miren este codigo, lo edite de forma terrible para que funcionase, ¡simplemente usen la pagina!
